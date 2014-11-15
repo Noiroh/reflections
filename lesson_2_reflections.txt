@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    It prepares the directory for being tracked by git. I need to ensure that
+    the needed files for git are created propertly and I'm telling git to track
+    this directory.
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+    Is a temporal area where I add the files that I will commit, so it gives me
+    the vision of what will be the next changes to commit.
+
