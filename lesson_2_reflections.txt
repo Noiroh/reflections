@@ -10,3 +10,32 @@ repository? What value do you think it offers?
     Is a temporal area where I add the files that I will commit, so it gives me
     the vision of what will be the next changes to commit.
 
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+    Using "git diff" to add only those changes of that logical change.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+    When working on two differents features at the same time or several persons.
+    In that case, the branches keep all the work organized.
+
+How do the diagrams help you visualize the branch structure?
+
+    The diagrams help to get a global vision of the state of all the branches
+    and commits.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+    The result is to join the work of either two branches in one commit. We
+    represent this that way because the result commit has the two parents that
+    correspond to the last commit in each branches merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+    The main pros is that it will be more qickly. The cons is that the changes
+    are similar, we could want to unify the new funcionality.
+
