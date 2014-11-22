@@ -10,3 +10,14 @@ automatically stay up-to-date with your remote repository?
     Because I want to share my work only when it was ready or I finished the
     required feature.
 
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+    Forks only exists in the context of GitHub and it is like a clone in their
+    repositories. Clone is when you copy a repository from one place to another
+    to work with and branches are differents works on one repository.
+    I will use fork to make changes to a existing repository and share my work
+    so it will be integrated into the original repository o accesible to 
+    anyone. I will use clone to work with a repository and I use branches when
+    I want to work on a different feature of the project I'm working on.
+
