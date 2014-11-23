@@ -28,3 +28,10 @@ stored locally?
     work on a different branch while I'm offline. Another benefit it is the
     speed of operating because all the logs are local.
 
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+    I should email the other person and the other person should be comparing
+    the changes. It is much harder without Git or GitHub.
+
+
