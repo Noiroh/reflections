@@ -34,4 +34,10 @@ and what would be harder?
     I should email the other person and the other person should be comparing
     the changes. It is much harder without Git or GitHub.
 
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+    When I want to work on a different feature, I could use branches to keep
+    the code organized, so the master branch contains only stable code or 
+    approved changes.
 
